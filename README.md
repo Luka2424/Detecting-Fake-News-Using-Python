@@ -1,1 +1,2 @@
 # Detecting-Fake-News-Using-Python
+Using the csv file news.csv which contains different articles and the designation of if they are fake news or real news I created a model which by looking at the text in the article as well as the title could determine if it was fake news with reasonable accuracy.To create this model I used  libraries from Scikit Learn like TfidfVectorizer and PassiveAggressiveClassifier.
